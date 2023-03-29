@@ -1,0 +1,13 @@
+anyio==3.6.2
+certifi
+fastapi==0.95.0
+flit_core
+greenlet
+gunicorn
+idna==3.4
+pydantic
+sniffio==1.3.0
+SQLAlchemy
+starlette==0.26.1
+typing_extensions
+uvicorn

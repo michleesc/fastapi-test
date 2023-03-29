@@ -1,0 +1,8 @@
+MVC (Model View Controller) Architecture <- bagus untuk aplikasi skala kecil
+Screaming Architecture <- lebih mudah untuk melihat kesalahan (trace kesalahan)
+
+models/entity -> file yang berkaitan langsung dengan struktur table pada database
+repository -> file yang berkaitan dalam aplikasi untuk meng-validasi input
+service -> file yang berisikan logika bisnis atau cara kerja dari fungsi yang diperlukan
+resource -> file yang berkaitan langsung ke integrasi aplikasi biasa juga disebut route
+
